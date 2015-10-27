@@ -1,4 +1,5 @@
-# PAYDUNYA PHP Demo Boutique en Ligne
+PAYDUNYA PHP Demo Boutique en Ligne
+=====================================
 
 Application PHP de démonstration de l'intégration de l'API de PAYDUNYA
 basée sur les sessions.
